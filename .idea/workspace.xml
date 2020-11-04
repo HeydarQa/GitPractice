@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,18 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2456a4d3-73ab-454a-95c9-856c9efa0387" name="Default Changelist" comment="" />
+    <list default="true" id="2456a4d3-73ab-454a-95c9-856c9efa0387" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +40,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1joDRiJXwKEDgt36ahlPsuQfd7d" />
+  <component name="ProjectId" id="1joDMBHhxv3wpzif2SKsRw3K5Cp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -50,19 +48,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.YAML" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Heydar">
-    <configuration name="Heydar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heydar" />
-      <module name="GitPractice" />
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,50 +79,55 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Heydar" />
         <item itemvalue="Application.Said" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="577f5a13-682a-4336-bd69-26bbd9b318e6" name="Default Changelist" comment="" />
-      <created>1604461544727</created>
+      <changelist id="2456a4d3-73ab-454a-95c9-856c9efa0387" name="Default Changelist" comment="" />
+      <created>1604461501037</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604461544727</updated>
+      <updated>1604461501037</updated>
+      <workItem from="1604461502490" duration="3069000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="1858" height="279" key="GridCell.Tab.0.bottom" timestamp="1604463896233">
+    <state width="1858" height="279" key="GridCell.Tab.0.bottom" timestamp="1604465629808">
       <screen x="-3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604463896233" />
-    <state width="1858" height="279" key="GridCell.Tab.0.center" timestamp="1604463896232">
+    <state width="1858" height="279" key="GridCell.Tab.0.bottom/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604465629808" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604463981650" />
+    <state width="1858" height="279" key="GridCell.Tab.0.center" timestamp="1604465629807">
       <screen x="-3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="279" key="GridCell.Tab.0.center/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604463896232" />
-    <state width="1858" height="279" key="GridCell.Tab.0.left" timestamp="1604463896231">
+    <state width="1858" height="279" key="GridCell.Tab.0.center/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604465629807" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604463981650" />
+    <state width="1858" height="279" key="GridCell.Tab.0.left" timestamp="1604465629806">
       <screen x="-3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="279" key="GridCell.Tab.0.left/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604463896231" />
-    <state width="1858" height="279" key="GridCell.Tab.0.right" timestamp="1604463896232">
+    <state width="1858" height="279" key="GridCell.Tab.0.left/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604465629806" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604463981650" />
+    <state width="1858" height="279" key="GridCell.Tab.0.right" timestamp="1604465629807">
       <screen x="-3840" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="279" key="GridCell.Tab.0.right/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604463896232" />
-    <state x="-3606" y="0" key="SettingsEditor" timestamp="1604462569965">
-      <screen x="-3840" y="0" width="1920" height="1080" />
+    <state width="1858" height="279" key="GridCell.Tab.0.right/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604465629807" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604463981650" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1604463180958">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-3606" y="0" key="SettingsEditor/0.0.1440.900/-3840.0.1920.1080/-1920.0.1920.1080@-3840.0.1920.1080" timestamp="1604462569965" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604463180958" />
   </component>
 </project>
